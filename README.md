@@ -2,3 +2,6 @@
 
 
 ![avatar](area_picker.png)
+
+
+![avatar](effect.gif)
